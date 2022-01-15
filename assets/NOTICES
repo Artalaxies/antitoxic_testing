@@ -12218,6 +12218,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 json_annotation
+pedantic
 platform
 process
 stream_transform
