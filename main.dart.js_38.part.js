@@ -1,33 +1,36 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var C={
-aVJ(){var x=null,w=new C.q7(A.a([F.kk,F.kl],y.e),E.hg(x,x),x)
-w.fE(x,x,x,x,!0)
+$__dart_deferred_initializers__.current=function(a,b,c,$){var B={
+aUI(){var x=null,w=new B.pO(M.pj(x,x,x,x,x,!1,x,x,x,x,C.bF,x,x,x,x,x,x,x),G.iv(x,x),x)
+w.h6(x,x,x,x,!0)
 return w},
-q7:function q7(d,e,f){var _=this
+pO:function pO(d,e,f){var _=this
 _.r=d
 _.c=$
 _.d=e
 _.a=f},
-a6i:function a6i(d){this.a=d}},A,G,H,I,B,D,E,F
-a.setFunctionNamesIfNecessary([C])
-C=a.updateHolder(c[10],C)
+a5p:function a5p(){}},A,C,F,D,H,I,E,K,L,G,M
+a.setFunctionNamesIfNecessary([B])
+B=a.updateHolder(c[10],B)
 A=c[0]
-G=c[33]
-H=c[45]
-I=c[29]
-B=c[2]
-D=c[21]
-E=c[34]
-F=c[50]
-C.q7.prototype={
-H(d,e){var x=null,w=y.l,v=this.r,u=A.ac(v).i("am<1,h7>")
-return new G.eN(this.d.c,A.a([A.fe(A.eQ(A.a([A.bX(x,A.c3(A.a([A.dq(new A.aq(H.pZ,A.cu(A.a([I.r7("images/album.jpg",x,300,300),new A.aq(B.bP,A.c3(A.a([A.bd("Album name",x,x,x,A.hd(x,x,x,x,x,x,x,x,x,x,x,64,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),A.dq(x,24,x),A.bd("Author: Test author",x,x,x,A.hd(x,x,x,x,x,x,x,x,x,x,x,32,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),A.dq(x,24,x),A.bd("Description: This is test album",x,x,x,A.hd(x,x,x,x,x,x,x,x,x,x,x,32,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x)],w),B.aB,B.z,B.o),x)],w),B.x,B.z,B.o),x),300,x),new A.aq(new A.aj(64,36,64,36),A.c3(A.af(A.af(new A.am(v,new C.a6i(this),u),!0,u.i("b7.E")),!0,y.m),B.x,B.z,B.o),x)],w),B.x,B.z,B.o),x,x,x,x,B.bP,x,x)],w),!0,!0,!0))],w),x)}}
-var z=a.updateTypes(["h7(ef)"])
-C.a6i.prototype={
-$1(d){return new D.h7(B.b.eV(this.a.r,d),d,new D.oQ(d))},
-$S:z+0};(function inheritance(){var x=a.inherit
-x(C.q7,E.dX)
-x(C.a6i,A.bH)})()
-A.cE(b.typeUniverse,JSON.parse('{"q7":{"U":[],"h":[]}}'))
-var y={e:A.J("i<ef>"),l:A.J("i<h>"),m:A.J("h")}}
-$__dart_deferred_initializers__["s72kFNgXb7+yyJVsDsz+Jbr29mM="] = $__dart_deferred_initializers__.current
+C=c[2]
+F=c[23]
+D=c[32]
+H=c[26]
+I=c[30]
+E=c[33]
+K=c[34]
+L=c[35]
+G=c[31]
+M=c[28]
+B.pO.prototype={
+J(d,e){var x=null,w=this.d.c,v=A.bj("Account Detail",x,x,x,A.as(e).N.a,C.c3,x),u=y.a,t=F.GF(D.eZ,A.a([A.bj("Profile Icon",x,x,x,A.as(e).N.Q,x,x),new A.ar(new A.ak(50,0,0,0),H.Cv("images/Logo.png",x,100,100),x)],u),D.f_,C.a6,0,0),s=A.bj("yourName\n",x,x,x,A.as(e).N.Q,x,x),r=A.bj("emailAddress",x,x,x,A.as(e).N.Q,x,x),q=A.nU(22)
+return new I.ft(w,A.a([A.hM(A.h3(A.a([v,E.cD,t,E.cD,new A.ar(K.pB,F.GF(D.eZ,A.a([s,r,E.cD,A.fW(C.E,!0,x,A.i8(A.bj("Save",x,x,x,A.h6(x,x,C.j,x,x,x,x,x,x,x,x,16,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),L.bi,35,200,new B.a5p(),x),C.bE,new A.z(4286586440),18,x,x,new A.cX(q,C.v),x,C.b0)],u),D.f_,C.a6,0,0),x)],u),!0,!0,!0))],u),x)}}
+var z=a.updateTypes([])
+B.a5p.prototype={
+$0(){},
+$S:0};(function inheritance(){var x=a.inherit
+x(B.pO,G.es)
+x(B.a5p,A.ej)})()
+A.cU(b.typeUniverse,JSON.parse('{"pO":{"X":[],"h":[]}}'))
+var y={a:A.J("i<h>")}}
+$__dart_deferred_initializers__["Q8hLglZHV/1xV+4px9S9gTvQ6O4="] = $__dart_deferred_initializers__.current

@@ -1,17 +1,34 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var D={
-jf(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8){var y,x,w,v
-if(b9==null)y=a6?A.Ej:A.dc
-else y=b9
-if(c0==null)x=a6?A.Ek:A.dd
-else x=c0
-w=a4===1?A.e2:A.Ez
-v=a6?B.aaN:A.e3
-return new C.lT(h,s,m,w,c7,c5,c2,c1,c3,c4,c6,!1,a7,a6,!0,y,x,!0,a4,a5,!1,!1,v,b8,a1,!0,a3,a8,a9,b0,t,q,l,j,k,i,u,b5,!0,b7,b1,g,b6,b4,e,b3,!0,null)}},B,C,A
-a.setFunctionNamesIfNecessary([D])
-D=a.updateHolder(c[26],D)
-B=c[65]
-C=c[27]
-A=c[40]
-var z=a.updateTypes([]);(function constants(){B.aaN=new C.XR(!1,!1)})()}
-$__dart_deferred_initializers__["9qnVn1TWy8LE0BooW60XzhKjF1E="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__.current=function(a,b,c,$){var C={
+aUK(){var x=null,w=new C.pS(A.a([I.C7,K.et],y.e),E.iv(x,x),x)
+w.h6(x,x,x,x,!0)
+return w},
+pS:function pS(d,e,f){var _=this
+_.r=d
+_.c=$
+_.d=e
+_.a=f},
+a5F:function a5F(d){this.a=d}},A,F,G,H,B,D,E,I,K
+a.setFunctionNamesIfNecessary([C])
+C=a.updateHolder(c[8],C)
+A=c[0]
+F=c[30]
+G=c[42]
+H=c[26]
+B=c[2]
+D=c[19]
+E=c[31]
+I=c[47]
+K=c[48]
+C.pS.prototype={
+J(d,e){var x=null,w=y.l,v=this.r,u=A.ae(v).j("ao<1,hH>")
+return new F.ft(this.d.c,A.a([A.hM(A.h3(A.a([A.cf(x,A.c5(A.a([A.dx(new A.ar(G.pD,A.cw(A.a([H.Cv("images/album.jpg",x,300,300),new A.ar(B.bG,A.c5(A.a([A.bj("Album name",x,x,x,A.h6(x,x,x,x,x,x,x,x,x,x,x,64,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),A.dx(x,24,x),A.bj("Author: Test author",x,x,x,A.h6(x,x,x,x,x,x,x,x,x,x,x,32,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x),A.dx(x,24,x),A.bj("Description: This is test album",x,x,x,A.h6(x,x,x,x,x,x,x,x,x,x,x,32,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x)],w),B.at,B.z,B.o),x)],w),B.y,B.z,B.o),x),300,x),new A.ar(new A.ak(64,36,64,36),A.c5(A.ah(A.ah(new A.ao(v,new C.a5F(this),u),!0,u.j("bc.E")),!0,y.m),B.y,B.z,B.o),x)],w),B.y,B.z,B.o),x,x,x,x,B.bG,x,x)],w),!0,!0,!0))],w),x)}}
+var z=a.updateTypes(["hH(f0)"])
+C.a5F.prototype={
+$1(d){return new D.hH(B.b.f6(this.a.r,d),d,new D.oA(d))},
+$S:z+0};(function inheritance(){var x=a.inherit
+x(C.pS,E.es)
+x(C.a5F,A.bE)})()
+A.cU(b.typeUniverse,JSON.parse('{"pS":{"X":[],"h":[]}}'))
+var y={e:A.J("i<f0>"),l:A.J("i<h>"),m:A.J("h")}}
+$__dart_deferred_initializers__["VYSIxkDydnNx0XzDv7G5wL9guBE="] = $__dart_deferred_initializers__.current
