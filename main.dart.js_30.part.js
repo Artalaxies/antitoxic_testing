@@ -10,6 +10,6 @@ B=c[0]
 C=c[49]
 A.k8.prototype={}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(A.k8,B.y)})()
+y(A.k8,B.x)})()
 B.cP(b.typeUniverse,JSON.parse("{}"));(function constants(){C.k1=new A.k8("test1","author1","00:00:06",1)})()}
-$__dart_deferred_initializers__["6oQeXmdIAffk3nCowPr908JUQ5k="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["fufOpYiBbyRzdljY3tZUSHgQC6o="] = $__dart_deferred_initializers__.current
