@@ -56,7 +56,24 @@
       measurementId: "G-QZ3EF08TCS"
     };
       // Initialize Firebase
+      firebase.initializeApp(firebaseConfig,"Artalaxies");
       firebase.initializeApp(firebaseConfig);
+
+
+    const firebaseConfig2 = {
+      apiKey: "AIzaSyAPA_XgaT2QXLP2WB9FgqfQKmGMdXOHRNY",
+      authDomain: "antitoxic-bd257.firebaseapp.com",
+      databaseURL: "https://antitoxic-bd257-default-rtdb.firebaseio.com",
+      projectId: "antitoxic-bd257",
+      storageBucket: "antitoxic-bd257.appspot.com",
+      messagingSenderId: "315963528945",
+      appId: "1:315963528945:web:df548414746c85e9193b50",
+      measurementId: "G-2LRBVN555S"
+    };
+
+     firebase.initializeApp(firebaseConfig2,"Antitoxic");
+
+
       firebase.analytics();
       firebase.performance()
 
@@ -70,7 +87,7 @@
        application. For more information, see:
        https://developers.google.com/web/fundamentals/primers/service-workers -->
   <script>
-    var serviceWorkerVersion = '790451497';
+    var serviceWorkerVersion = '1255195267';
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {
