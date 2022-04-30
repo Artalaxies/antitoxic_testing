@@ -1,8 +1,46 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C
-a.setFunctionNamesIfNecessary([])
-A=c[39]
-B=c[0]
-C=c[2]
-var z=a.updateTypes([]);(function constants(){A.pw=new B.lb(100,C.aA,null)})()}
-$__dart_deferred_initializers__["Z10Ope7ZR2UfFFPMdUG96nQMGX8="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__.current=function(a,b,c,$){var D={
+b0h(){var x=null,w=new D.rI(G.iA(x,x),x)
+w.hb(x,x,x,x,!0)
+return w},
+rI:function rI(d,e){this.c=$
+this.d=d
+this.a=e},
+aji:function aji(){},
+ajj:function ajj(){},
+ajk:function ajk(){}},H,A,E,B,C,F,I,K,L,G,M
+a.setFunctionNamesIfNecessary([D])
+D=a.updateHolder(c[13],D)
+H=c[29]
+A=c[0]
+E=c[42]
+B=c[2]
+C=c[43]
+F=c[34]
+I=c[23]
+K=c[35]
+L=c[36]
+G=c[30]
+M=c[44]
+D.rI.prototype={
+J(d,e){var x=null,w=y.a
+return new H.fD(this.d.c,A.a([A.hQ(A.he(A.a([A.cc(x,A.cr(E.Uu,B.y,B.z,B.p),x,x,x,x,B.bP,x,x),new A.aD(new A.al(100,0,0,10),A.cU(A.a([A.e0(A.mz(x,A.cc(B.U,A.l9(x,C.pU,x,new D.aji(),x),x,x,C.oD,400,x,x,400),B.aI,!1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x),400,400),A.cr(A.a([C.Cd,C.ps,C.Cg,new A.aD(C.c9,A.h6(B.E,!0,x,A.j1(E.a8M,F.bh,50,200,new D.ajj(),x),B.bC,F.bh,18,x,x,x,x,B.b_),x),C.Ch,C.Ci,C.Ce,C.Cf],w),B.aH,B.z,B.p)],w),B.y,B.z,B.p),x),C.El,new A.aD(new A.al(100,0,700,50),I.jj(!0,B.ad,!1,x,x,x,x,x,2,C.pZ,!0,!0,!0,x,!1,x,x,x,x,x,!0,x,1,x,!1,"\u2022",new D.ajk(),x,x,x,!1,x,x,K.aX,x,x,x,x,x,x,x,B.ak,x,L.b7,x,x,x),x)],w),!0,!0,!0)),A.hQ(A.he(A.a([new A.aD(new A.al(100,0,100,0),A.cU(C.ry,B.aH,B.bX,B.p),x),C.dI,new A.aD(new A.al(100,0,100,0),A.cU(C.wr,B.aH,B.bX,B.p),x),C.dI,new A.aD(C.fk,A.cU(C.wx,B.aH,B.bX,B.p),x),C.dI,new A.aD(C.pw,A.cU(C.wN,B.aH,B.bX,B.p),x)],w),!0,!0,!0))],w),x)}}
+var z=a.updateTypes([])
+D.aji.prototype={
+$0(){},
+$S:0}
+D.ajj.prototype={
+$0(){},
+$S:0}
+D.ajk.prototype={
+$1(d){},
+$S:28};(function inheritance(){var x=a.inherit,w=a.inheritMany
+x(D.rI,G.eC)
+w(A.es,[D.aji,D.ajj])
+x(D.ajk,A.bR)})()
+A.d4(b.typeUniverse,JSON.parse('{"rI":{"Y":[],"i":[]}}'))
+var y={a:A.I("j<i>")};(function constants(){var x=a.makeConstList
+E.a8P=new A.be("Music Details",null,M.hV,null,null,null,null,null,null)
+E.Uu=A.a(x([E.a8P]),y.a)
+E.a8M=new A.be("BUY",null,null,null,null,null,null,null,null)})()}
+$__dart_deferred_initializers__["7+s6oT0dROARk03jLWxFmagjzt0="] = $__dart_deferred_initializers__.current

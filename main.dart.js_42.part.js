@@ -1,55 +1,51 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var B,A,C,D,E,F
-a.setFunctionNamesIfNecessary([])
-B=c[0]
-A=c[44]
-C=c[2]
-D=c[35]
-E=c[24]
-F=c[45]
+$__dart_deferred_initializers__.current=function(a,b,c,$){var D={
+b0i(){var x=null,w=new D.rJ(G.iA(x,x),x)
+w.hb(x,x,x,x,!0)
+return w},
+rJ:function rJ(d,e){this.c=$
+this.d=d
+this.a=e},
+ajl:function ajl(){},
+ajm:function ajm(){},
+ajn:function ajn(){},
+ajo:function ajo(){}},H,A,E,B,C,F,I,K,L,G,M
+a.setFunctionNamesIfNecessary([D])
+D=a.updateHolder(c[14],D)
+H=c[29]
+A=c[0]
+E=c[45]
+B=c[2]
+C=c[43]
+F=c[34]
+I=c[23]
+K=c[35]
+L=c[36]
+G=c[30]
+M=c[44]
+D.rJ.prototype={
+J(d,e){var x=null,w=y.a
+return new H.fD(this.d.c,A.a([A.hQ(A.he(A.a([A.cc(x,A.cr(E.VL,B.y,B.z,B.p),x,x,x,x,B.bP,x,x),new A.aD(new A.al(100,0,0,10),A.cU(A.a([A.e0(A.mz(x,A.cc(B.U,A.l9(x,C.pU,x,new D.ajl(),x),x,x,C.oD,400,x,x,400),B.aI,!1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x),400,400),A.cr(A.a([C.Cd,C.ps,C.Cg,C.Ch,C.Ci,C.Ce,C.Cf,new A.aD(C.fk,A.cU(A.a([new A.aD(C.c9,A.h6(B.E,!0,x,A.j1(E.a8R,F.bh,50,200,new D.ajm(),x),B.bC,F.bh,18,x,x,x,x,B.b_),x),new A.aD(C.c9,A.h6(B.E,!0,x,A.j1(E.a8T,F.bh,50,200,new D.ajn(),x),B.bC,F.bh,18,x,x,x,x,B.b_),x)],w),B.y,B.z,B.p),x)],w),B.aH,B.z,B.p)],w),B.y,B.z,B.p),x),C.El,new A.aD(new A.al(100,0,700,50),I.jj(!0,B.ad,!1,x,x,x,x,x,2,C.pZ,!0,!0,!0,x,!1,x,x,x,x,x,!0,x,1,x,!1,"\u2022",new D.ajo(),x,x,x,!1,x,x,K.aX,x,x,x,x,x,x,x,B.ak,x,L.b7,x,x,x),x)],w),!0,!0,!0)),A.hQ(A.he(A.a([new A.aD(new A.al(100,0,100,0),A.cU(C.ry,B.aH,B.bX,B.p),x),C.dI,new A.aD(new A.al(100,0,100,0),A.cU(C.wr,B.aH,B.bX,B.p),x),C.dI,new A.aD(C.fk,A.cU(C.wx,B.aH,B.bX,B.p),x),C.dI,new A.aD(C.pw,A.cU(C.wN,B.aH,B.bX,B.p),x)],w),!0,!0,!0))],w),x)}}
 var z=a.updateTypes([])
-var y={a:B.G("j<i>")};(function constants(){var x=a.makeConstList
-A.FJ=new B.qv("images/alb.png",null,null)
-A.Lk=new B.Cs(A.FJ,C.iA)
-A.oK=new B.ex(C.t,A.Lk,null,null,null,null,C.aQ)
-A.py=new B.lb(null,D.bh,null)
-A.ca=new B.ao(100,0,0,10)
-A.fl=new B.ao(100,0,100,0)
-A.pC=new B.ao(100,0,100,50)
-A.Mz=new B.ef(58495,!1)
-A.q0=new B.fB(A.Mz,80,null)
-A.q5=new E.rw(null,null,null,"Filter",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null)
-A.a8H=new B.bg("Event",null,null,null,null,null,null,null,null)
-A.a9f=new B.bg("price",null,null,null,null,null,null,null,null)
-A.a8W=new B.bg("Form",null,null,null,null,null,null,null,null)
-A.rF=B.a(x([A.a8H,A.a9f,A.a8W]),y.a)
-A.a8V=new B.bg("Offer",null,null,null,null,null,null,null,null)
-A.a8I=new B.bg("                 0.001",null,null,null,null,null,null,null,null)
-A.a8X=new B.bg("Sumitomo2077",null,null,null,null,null,null,null,null)
-A.wy=B.a(x([A.a8V,A.a8I,A.a8X]),y.a)
-A.a9d=new B.bg("List",null,null,null,null,null,null,null,null)
-A.a8F=new B.bg("         2.5",null,null,null,null,null,null,null,null)
-A.a8U=new B.bg("sturec5",null,null,null,null,null,null,null,null)
-A.wE=B.a(x([A.a9d,A.a8F,A.a8U]),y.a)
-A.a8Q=new B.bg("Minted",null,null,null,null,null,null,null,null)
-A.a8L=new B.bg("NullAddress",null,null,null,null,null,null,null,null)
-A.wU=B.a(x([A.a8Q,A.a8L]),y.a)
-A.LB=new B.lb(null,C.j,null)
-A.dI=new B.ay(A.fl,A.LB,null)
-A.Eq=new B.v(!0,null,null,null,null,null,40,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-A.a90=new B.bg("Song Name: xxx",null,A.Eq,null,null,null,null,null,null)
-A.Cl=new B.ay(A.ca,A.a90,null)
-A.hW=new B.v(!0,null,null,null,null,null,30,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-A.a8G=new B.bg("Owner:AAA",null,A.hW,null,null,null,null,null,null)
-A.Cm=new B.ay(A.ca,A.a8G,null)
-A.a8O=new B.bg("Duration: 3:20",null,A.hW,null,null,null,null,null,null)
-A.Cn=new B.ay(A.ca,A.a8O,null)
-A.M1=new B.ao(100,0,0,50)
-A.a9c=new B.bg("3:14      Date: 2021-12-20",null,A.Eq,null,null,null,null,null,null)
-A.Co=new B.ay(A.M1,A.a9c,null)
-A.a9b=new B.bg("Listened: 200",null,A.hW,null,null,null,null,null,null)
-A.Cp=new B.ay(A.ca,A.a9b,null)
-A.a8D=new B.bg("Sold: 2000",null,A.hW,null,null,null,null,null,null)
-A.Cq=new B.ay(A.ca,A.a8D,null)
-A.Et=new B.bg("     Transaction",null,F.hX,null,null,null,null,null,null)})()}
-$__dart_deferred_initializers__["cS3SHj7ZiPikBFD86hm4tH1pAc0="] = $__dart_deferred_initializers__.current
+D.ajl.prototype={
+$0(){},
+$S:0}
+D.ajm.prototype={
+$0(){},
+$S:0}
+D.ajn.prototype={
+$0(){},
+$S:0}
+D.ajo.prototype={
+$1(d){},
+$S:28};(function inheritance(){var x=a.inherit,w=a.inheritMany
+x(D.rJ,G.eC)
+w(A.es,[D.ajl,D.ajm,D.ajn])
+x(D.ajo,A.bR)})()
+A.d4(b.typeUniverse,JSON.parse('{"rJ":{"Y":[],"i":[]}}'))
+var y={a:A.I("j<i>")};(function constants(){var x=a.makeConstList
+E.a8U=new A.be("Music Details (Owner Version)",null,M.hV,null,null,null,null,null,null)
+E.VL=A.a(x([E.a8U]),y.a)
+E.a8R=new A.be("Edit",null,null,null,null,null,null,null,null)
+E.a8T=new A.be("Brun",null,null,null,null,null,null,null,null)})()}
+$__dart_deferred_initializers__["d+gPkWtqAxCGVCK63HtCr0i6WbU="] = $__dart_deferred_initializers__.current
